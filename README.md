@@ -3,7 +3,7 @@ imapsync_bash
 
 This is just a basic shell script, to use with imapsync and migrate emails from imapserver A to imapserver B.
 
-Please, edit the file and use --dry to test, before do it for real.
+Please, edit the file before use it!! And use --dry to test, before do it for real.
 
 Usage:
 
